@@ -20,7 +20,7 @@ To run the Python scripts, make sure you have:
 ## 🚀 Getting Started
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/python-basics.git
+   git clone https://github.com/revy00/python-basics.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -47,9 +47,6 @@ python-basics/
 
 ## 🤝 Contributing
 Feel free to fork this repository and submit pull requests with improvements or additional examples.
-
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Happy coding! 🚀
 
