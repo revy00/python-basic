@@ -1,4 +1,3 @@
-# python-basic
 # Python Basics
 
 Welcome to the **Python Basics** repository! This repository is designed for beginners who want to learn the fundamental concepts of Python programming.
